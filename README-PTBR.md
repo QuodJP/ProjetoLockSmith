@@ -22,6 +22,8 @@ Projeto de uma trava inteligente onde a identificação de cartões via QRCode e
       - 1 Relé 5V simples;
       - 1 Shield MFRC522;
       - 1 Traca Solenóide.
+      - (Opcional) 1 Led.
+      - (Opcional) 1 Resistor 220 ou 470 Ohms.
       
 # Código do Hardware (.ino)
   Baixe o código, abra-o na IDE arduino (https://www.arduino.cc/en/Main/Software)
